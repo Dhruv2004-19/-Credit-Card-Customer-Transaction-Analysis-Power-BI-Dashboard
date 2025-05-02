@@ -1,0 +1,2 @@
+# -Credit-Card-Customer-Transaction-Analysis-Power-BI-Dashboard
+🔧 Tools: Power BI | DAX | Data Modeling | Visualization  🔍 Key Insights: Blue Card users generate 83% of total revenue.  Graduates and white-collar professionals are top spenders.  Highest revenue from age group 40–50 and non-homeowners.  Bills and Entertainment are top spending categories.  Q3 leads in revenue; online payments remain low.
